@@ -1,0 +1,8 @@
+C:\Workspace\zoo\mole\mole\mole\bin\Debug\mole.exe.config
+C:\Workspace\zoo\mole\mole\mole\bin\Debug\mole.exe
+C:\Workspace\zoo\mole\mole\mole\bin\Debug\mole.pdb
+C:\Workspace\zoo\mole\mole\mole\obj\Debug\mole.csproj.AssemblyReference.cache
+C:\Workspace\zoo\mole\mole\mole\obj\Debug\mole.csproj.SuggestedBindingRedirects.cache
+C:\Workspace\zoo\mole\mole\mole\obj\Debug\mole.csproj.CoreCompileInputs.cache
+C:\Workspace\zoo\mole\mole\mole\obj\Debug\mole.exe
+C:\Workspace\zoo\mole\mole\mole\obj\Debug\mole.pdb
